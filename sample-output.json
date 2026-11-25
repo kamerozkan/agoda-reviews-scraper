@@ -1,0 +1,428 @@
+[
+  {
+    "hotelId": 10936,
+    "hotelName": "The Surin Phuket",
+    "hotelReviewUrl": "https://www.agoda.com/the-surin-phuket-sha-plus/reviews/phuket-th.html",
+    "reviewId": 1199437989,
+    "provider": "Agoda",
+    "rating": 10,
+    "ratingText": "Exceptional",
+    "reviewTitle": "Amazing hotel",
+    "reviewComments": "Beautiful hotel in a stunning setting. The beach was amazing, free body boarding, paddle boards, yoga lessons etc. staff were so friendly, food was great- would definitely stay here again when visiting Phuket",
+    "reviewPositives": "",
+    "reviewNegatives": "",
+    "language": "en",
+    "reviewDate": "2026-10-25T09:27:54+07:00",
+    "checkInDate": "2026-10-19T00:00:00+07:00",
+    "checkOutDate": "2026-10-25T00:00:00+07:00",
+    "checkInMonthYear": "October 2026",
+    "reviewerName": "Naomi",
+    "reviewerCountry": "Hong Kong SAR, China",
+    "reviewerCountryCode": "HK",
+    "travelerType": "Group",
+    "roomType": "1-Bedroom Superior Cottage",
+    "lengthOfStay": 6,
+    "helpfulVotes": 0,
+    "hasHotelResponse": false,
+    "responderName": "",
+    "responseText": "",
+    "responseDate": "",
+    "hotelOverallScore": 9.1,
+    "hotelReviewCount": 1364,
+    "hotelSubScores": {
+      "cleanliness": 9.3,
+      "facilities": 9.2,
+      "location": 9.2,
+      "roomComfort": 8.7,
+      "staffPerformance": 9.2,
+      "valueForMoney": 8.7
+    },
+    "aspectSentiment": [
+      {
+        "aspect": "Service",
+        "mentions": 33,
+        "positivePct": 90,
+        "negativePct": 9,
+        "ratingType": "Excellent"
+      },
+      {
+        "aspect": "Beach",
+        "mentions": 30,
+        "positivePct": 100,
+        "negativePct": 0,
+        "ratingType": "Excellent"
+      },
+      {
+        "aspect": "Location",
+        "mentions": 14,
+        "positivePct": 92,
+        "negativePct": 7,
+        "ratingType": "Excellent"
+      },
+      {
+        "aspect": "Breakfast",
+        "mentions": 9,
+        "positivePct": 77,
+        "negativePct": 22,
+        "ratingType": "Excellent"
+      },
+      {
+        "aspect": "Pool",
+        "mentions": 9,
+        "positivePct": 100,
+        "negativePct": 0,
+        "ratingType": "Excellent"
+      },
+      {
+        "aspect": "Restaurant options",
+        "mentions": 9,
+        "positivePct": 66,
+        "negativePct": 33,
+        "ratingType": "Excellent"
+      },
+      {
+        "aspect": "Cleanliness",
+        "mentions": 7,
+        "positivePct": 100,
+        "negativePct": 0,
+        "ratingType": "Excellent"
+      },
+      {
+        "aspect": "Atmosphere",
+        "mentions": 6,
+        "positivePct": 100,
+        "negativePct": 0,
+        "ratingType": "Excellent"
+      },
+      {
+        "aspect": "Room comfort",
+        "mentions": 5,
+        "positivePct": 80,
+        "negativePct": 20,
+        "ratingType": "Excellent"
+      },
+      {
+        "aspect": "Room view",
+        "mentions": 5,
+        "positivePct": 100,
+        "negativePct": 0,
+        "ratingType": "Excellent"
+      }
+    ],
+    "topReviewTopics": [
+      {
+        "topic": "private beach",
+        "mentions": 42
+      },
+      {
+        "topic": "surin beach",
+        "mentions": 23
+      },
+      {
+        "topic": "one of the best",
+        "mentions": 12
+      },
+      {
+        "topic": "beautiful beach",
+        "mentions": 11
+      },
+      {
+        "topic": "5 star",
+        "mentions": 11
+      },
+      {
+        "topic": "beach restaurant",
+        "mentions": 9
+      }
+    ],
+    "providerBreakdown": {
+      "Rating via Agoda": 799,
+      "Rating via additional providers": 395,
+      "Rating via Booking.com": 170
+    }
+  },
+  {
+    "hotelId": 10936,
+    "hotelName": "The Surin Phuket",
+    "hotelReviewUrl": "https://www.agoda.com/the-surin-phuket-sha-plus/reviews/phuket-th.html",
+    "reviewId": 1206276026,
+    "provider": "Booking.com",
+    "rating": 10,
+    "ratingText": "Exceptional",
+    "reviewTitle": "Amazing staff and service, all super friendly and helpful at all times. Nothing was ever an issue, the food and drinks w",
+    "reviewComments": "",
+    "reviewPositives": "Amazing service from the staff, all so super happy and super helpful",
+    "reviewNegatives": "Nothing to not like",
+    "language": "en",
+    "reviewDate": "2026-11-12T00:00:00+07:00",
+    "checkInDate": "",
+    "checkOutDate": "",
+    "checkInMonthYear": "",
+    "reviewerName": "Nick",
+    "reviewerCountry": "",
+    "reviewerCountryCode": "",
+    "travelerType": "Couple",
+    "roomType": "",
+    "lengthOfStay": 0,
+    "helpfulVotes": 0,
+    "hasHotelResponse": false,
+    "responderName": "",
+    "responseText": "",
+    "responseDate": "",
+    "hotelOverallScore": 9.1,
+    "hotelReviewCount": 1364,
+    "hotelSubScores": {
+      "cleanliness": 9.3,
+      "facilities": 9.2,
+      "location": 9.2,
+      "roomComfort": 8.7,
+      "staffPerformance": 9.2,
+      "valueForMoney": 8.7
+    },
+    "aspectSentiment": [
+      {
+        "aspect": "Service",
+        "mentions": 33,
+        "positivePct": 90,
+        "negativePct": 9,
+        "ratingType": "Excellent"
+      },
+      {
+        "aspect": "Beach",
+        "mentions": 30,
+        "positivePct": 100,
+        "negativePct": 0,
+        "ratingType": "Excellent"
+      },
+      {
+        "aspect": "Location",
+        "mentions": 14,
+        "positivePct": 92,
+        "negativePct": 7,
+        "ratingType": "Excellent"
+      },
+      {
+        "aspect": "Breakfast",
+        "mentions": 9,
+        "positivePct": 77,
+        "negativePct": 22,
+        "ratingType": "Excellent"
+      },
+      {
+        "aspect": "Pool",
+        "mentions": 9,
+        "positivePct": 100,
+        "negativePct": 0,
+        "ratingType": "Excellent"
+      },
+      {
+        "aspect": "Restaurant options",
+        "mentions": 9,
+        "positivePct": 66,
+        "negativePct": 33,
+        "ratingType": "Excellent"
+      },
+      {
+        "aspect": "Cleanliness",
+        "mentions": 7,
+        "positivePct": 100,
+        "negativePct": 0,
+        "ratingType": "Excellent"
+      },
+      {
+        "aspect": "Atmosphere",
+        "mentions": 6,
+        "positivePct": 100,
+        "negativePct": 0,
+        "ratingType": "Excellent"
+      },
+      {
+        "aspect": "Room comfort",
+        "mentions": 5,
+        "positivePct": 80,
+        "negativePct": 20,
+        "ratingType": "Excellent"
+      },
+      {
+        "aspect": "Room view",
+        "mentions": 5,
+        "positivePct": 100,
+        "negativePct": 0,
+        "ratingType": "Excellent"
+      }
+    ],
+    "topReviewTopics": [
+      {
+        "topic": "private beach",
+        "mentions": 42
+      },
+      {
+        "topic": "surin beach",
+        "mentions": 23
+      },
+      {
+        "topic": "one of the best",
+        "mentions": 12
+      },
+      {
+        "topic": "beautiful beach",
+        "mentions": 11
+      },
+      {
+        "topic": "5 star",
+        "mentions": 11
+      },
+      {
+        "topic": "beach restaurant",
+        "mentions": 9
+      }
+    ],
+    "providerBreakdown": {
+      "Rating via Agoda": 799,
+      "Rating via additional providers": 395,
+      "Rating via Booking.com": 170
+    }
+  },
+  {
+    "hotelId": 10936,
+    "hotelName": "The Surin Phuket",
+    "hotelReviewUrl": "https://www.agoda.com/the-surin-phuket-sha-plus/reviews/phuket-th.html",
+    "reviewId": 1197047553,
+    "provider": "Agoda",
+    "rating": 10,
+    "ratingText": "Exceptional",
+    "reviewTitle": "Paradise in Phuket",
+    "reviewComments": "This is my most favorite place to stay in Thailand / the staff really are the icing on the cake - the beach is private and in a protected bay - no hawkers on the beach here - breakfast is a cornucopia of delicious foods for every palate. Beware there are lots of stairs to navigate but this too can be an enjoyable workout! Will come back, again and again and again!",
+    "reviewPositives": "",
+    "reviewNegatives": "",
+    "language": "en",
+    "reviewDate": "2026-10-20T10:26:51+07:00",
+    "checkInDate": "2026-10-18T00:00:00+07:00",
+    "checkOutDate": "2026-10-20T00:00:00+07:00",
+    "checkInMonthYear": "October 2026",
+    "reviewerName": "Denise",
+    "reviewerCountry": "Thailand",
+    "reviewerCountryCode": "TH",
+    "travelerType": "Couple",
+    "roomType": "1-Bedroom Hillside Cottage",
+    "lengthOfStay": 2,
+    "helpfulVotes": 0,
+    "hasHotelResponse": true,
+    "responderName": "The Surin Phuket",
+    "responseText": "Dear Mrs Denise, Greetings from The Surin Phuket and thank you very much for having taken the time to post a comment following your recent stay with us. We are delighted to read that you had a lovely stay and would consider to come back again. With this in mind, once again thank you and look forward to welcoming you back on your next escape to Phuket. Best regards Thomas Ehrhart General Manager The Surin Phuket",
+    "responseDate": "2026/10/23 10:40:52",
+    "hotelOverallScore": 9.1,
+    "hotelReviewCount": 1364,
+    "hotelSubScores": {
+      "cleanliness": 9.3,
+      "facilities": 9.2,
+      "location": 9.2,
+      "roomComfort": 8.7,
+      "staffPerformance": 9.2,
+      "valueForMoney": 8.7
+    },
+    "aspectSentiment": [
+      {
+        "aspect": "Service",
+        "mentions": 33,
+        "positivePct": 90,
+        "negativePct": 9,
+        "ratingType": "Excellent"
+      },
+      {
+        "aspect": "Beach",
+        "mentions": 30,
+        "positivePct": 100,
+        "negativePct": 0,
+        "ratingType": "Excellent"
+      },
+      {
+        "aspect": "Location",
+        "mentions": 14,
+        "positivePct": 92,
+        "negativePct": 7,
+        "ratingType": "Excellent"
+      },
+      {
+        "aspect": "Breakfast",
+        "mentions": 9,
+        "positivePct": 77,
+        "negativePct": 22,
+        "ratingType": "Excellent"
+      },
+      {
+        "aspect": "Pool",
+        "mentions": 9,
+        "positivePct": 100,
+        "negativePct": 0,
+        "ratingType": "Excellent"
+      },
+      {
+        "aspect": "Restaurant options",
+        "mentions": 9,
+        "positivePct": 66,
+        "negativePct": 33,
+        "ratingType": "Excellent"
+      },
+      {
+        "aspect": "Cleanliness",
+        "mentions": 7,
+        "positivePct": 100,
+        "negativePct": 0,
+        "ratingType": "Excellent"
+      },
+      {
+        "aspect": "Atmosphere",
+        "mentions": 6,
+        "positivePct": 100,
+        "negativePct": 0,
+        "ratingType": "Excellent"
+      },
+      {
+        "aspect": "Room comfort",
+        "mentions": 5,
+        "positivePct": 80,
+        "negativePct": 20,
+        "ratingType": "Excellent"
+      },
+      {
+        "aspect": "Room view",
+        "mentions": 5,
+        "positivePct": 100,
+        "negativePct": 0,
+        "ratingType": "Excellent"
+      }
+    ],
+    "topReviewTopics": [
+      {
+        "topic": "private beach",
+        "mentions": 42
+      },
+      {
+        "topic": "surin beach",
+        "mentions": 23
+      },
+      {
+        "topic": "one of the best",
+        "mentions": 12
+      },
+      {
+        "topic": "beautiful beach",
+        "mentions": 11
+      },
+      {
+        "topic": "5 star",
+        "mentions": 11
+      },
+      {
+        "topic": "beach restaurant",
+        "mentions": 9
+      }
+    ],
+    "providerBreakdown": {
+      "Rating via Agoda": 799,
+      "Rating via additional providers": 395,
+      "Rating via Booking.com": 170
+    }
+  }
+]
